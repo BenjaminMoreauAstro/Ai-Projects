@@ -1,4 +1,4 @@
-# Ai-Projects-2022
+# Ai-Projects
 ### A collection of Ai projects from Computational Physics and the Machine Learning Club.
 
 ### Gradient_Descent_Wine_Tasting.ipynb--a project as part of the computational physics class at the University of Kansas.
